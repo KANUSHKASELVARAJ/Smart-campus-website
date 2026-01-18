@@ -1,0 +1,17 @@
+Waste management refers to the safe collection, transport, processing, recycling, and disposal of waste materials.
+Types of waste include biodegradable (food scraps, garden waste, paper), non-biodegradable (plastic, metals, glass, electronics), hazardous (chemicals, batteries, medical and industrial waste), e-waste (old electronics), and construction/demolition waste (bricks, concrete, wood).
+Proper waste segregation at the source improves recycling efficiency, reduces pollution, and protects human health.
+Biodegradable waste can be processed into compost or biogas, while non-biodegradable waste can be recycled into new products.
+Hazardous waste must be handled carefully according to certified disposal systems and regulations.
+E-waste should be reused or recycled safely and never dumped in landfills.
+Solid waste management strategies include source reduction, recycling, composting, energy recovery, and landfilling.
+Poor waste management causes soil contamination, water pollution from leachate, air pollution, health hazards, and greenhouse gas emissions.
+Government initiatives include Swachh Bharat Mission, E-waste Management Rules, Hazardous Waste Management Rules, and Extended Producer Responsibility (EPR).
+Technology and AI help predict waste trends, optimize collection routes, sort waste with computer vision, track recycling, and create awareness through apps and chatbots.
+Responsibilties ofCampuses and individuals should segregate waste, low plastics usage, compost organic waste, reuse items, encourage recycling, and educate peers.
+Energy conservation includes turning off devices, using energy-efficient appliances, and maximizing natural lighting.
+Water conservation involves rainwater harvesting, fixing leaks, and reducing wastage.
+Recycling stations should handle paper, plastic, metal, and e-waste safely.
+Carbon footprint can be reduced by walking, cycling, using public transport, supporting renewable energy, and planting trees.
+Climate action involves sustainable energy, monitoring emissions, and educating students.
+Campus sustainability practices include awareness programs, paperless submissions, sustainable procurement, smart irrigation, energy monitoring, sustainable transportation, food waste reduction, green buildings, pollution prevention, and real-time dashboards.

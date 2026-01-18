@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Smart Campus Chatbot 🌱</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>🌱 Smart Campus Chatbot</h1>
+
+        <!-- Chat box -->
+        <div id="chat-box"></div>
+
+        <!-- User input -->
+        <input type="text" id="user-input" placeholder="Type your message..." autofocus>
+        <button id="send-btn">Send</button>
+    </div>
+
+    <!-- JS -->
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
